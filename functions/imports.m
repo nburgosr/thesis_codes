@@ -1,0 +1,7 @@
+addpath('plot')
+addpath('filters')
+addpath('comm')
+addpath('filters')
+addpath('geo_tools')
+addpath('plot')
+addpath('sim_tools')
